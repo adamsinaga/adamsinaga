@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adamsinaga
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me ...
 
 <!---
